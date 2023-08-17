@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @houboye
-- 👀 I’m interested in iOS、Python
+- 👀 I’m interested in iOS、Android、Flutter、Java、Python
 - 🌱 I’m currently learning Swift
 - 📫 How to reach me houboye@outlook.com
