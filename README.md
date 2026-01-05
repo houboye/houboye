@@ -1,4 +1,3 @@
 - 👋 Hi, I’m By¹⁹⁹²
-- 👀 I’m interested in iOS、Android、Flutter、Java、Python
-- 🌱 I’m currently learning SpringBoot
-- 📫 How to reach me houboye@outlook.com
+- 👀 I’m interested in everything
+- 🌱 I’m currently learning AI stuff
